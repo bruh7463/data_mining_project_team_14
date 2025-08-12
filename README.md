@@ -11,6 +11,15 @@ Wikipedia pages related to Zambia have fewer local contributions than internatio
 - Support The University of Zambia's DataLab Research Group in advocating for greater representation of local perspectives on Wikipedia.
 - Enable long-term monitoring of contribution by country of origin.
 
+### Data Mining Goals
+- Create a prediction model that can determine the most likely country of origin for each Wikipedia edit made to Zambian pages, using details like the user’s IP address (for anonymous edits), profile information, and the timing of edits.
+
+- Analyze and visualize the data to show clear summaries of how contributions are distributed by country.
+
+- Spot unusual trends or activity, such as sudden increases in edits coming from a specific country.
+
+
+
 ### Initial Project Success Criteria
 
 - Produce a clear and accurate breakdown of Wikipedia contributions to Zambian pages by country of origin.
