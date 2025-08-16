@@ -6,10 +6,10 @@ Wikipedia pages related to Zambia have fewer local contributions than internatio
 
 ### Business Objectives
 
-- Identify the percentage of contributions to Zambian Wikipedia articles by users from Zambia compared to other nations.
 - Provide practical advice to guide strategies for Zambian-based contributions.
-- Support The University of Zambia's DataLab Research Group in advocating for greater representation of local perspectives on Wikipedia.
+- Identify the percentage of contributions to Zambian Wikipedia articles by users from Zambia compared to other nations.
 - Enable long-term monitoring of contribution by country of origin.
+- Support The University of Zambia's DataLab Research Group in advocating for greater representation of local perspectives on Wikipedia.
 
 ### What Success Looks Like In Practice
 
