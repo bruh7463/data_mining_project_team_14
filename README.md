@@ -21,9 +21,9 @@ Wikipedia pages related to Zambia have fewer local contributions than internatio
 ### Data Mining Goals
 - Create a prediction model that can determine the most likely country of origin for each Wikipedia edit made to Zambian pages, using details like the user’s IP address (for anonymous edits), profile information, and the timing of edits.
 
-- Analyze and visualize the data to show clear summaries of how contributions are distributed by country.
+- Analyze and visualize the data to show clear summaries of how contributions are distributed by country .
 
-- Spot unusual trends or activity, such as sudden increases in edits coming from a specific country.
+- Spot unusual trends or activity, such as sudden increases in edits coming from a specific country .
 
 
 
