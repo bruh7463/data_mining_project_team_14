@@ -23,8 +23,6 @@ Wikipedia pages related to Zambia have fewer local contributions than internatio
 
 - Analyze and visualize the data to show clear summaries of how contributions are distributed by country .
 
-- Spot unusual trends or activity, such as sudden increases in edits coming from a specific country .
-
 
 
 ### Initial Project Success Criteria
